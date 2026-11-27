@@ -133,19 +133,6 @@ Exploring new technologies, experimenting with ideas and building projects that 
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=071A2B&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=071A2B&title_color=22D3EE&text_color=CBD5E1" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=071A2B&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE" width="75%"/>
-
-</div>
 
 ---
 
